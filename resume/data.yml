@@ -2,74 +2,111 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
-  middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  first: Muhammad
+  middle: Handi
+  last: Rachmawan
+about: Hi there! My name is Muhammad Handi Rachmawan or you can call me Handi.
+       I am a non-opiniated Informatics student at UPN Veteran Yogyakarta.
+       Lately I've been learning some back-end and cloud development stuff,
+       but sometimes I do mobile development stuff too.
+position: Informatics Student
 
 birth:
-  year: 1990
-  location: New York
-
-# you may add more experiences by duplicating the template
+  year: 2001
+  location: Bantul
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: MPK Adhybhawa SMA N 1 Jetis
+  position: Lead of Commision 1
+  timeperiod: Nov 2018 - Nov 2019
+  description: Responsible for ICT aspects
   website: https://example.com
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Information Technology Club (ITC)
+  position: Android Development Staff
+  timeperiod: Jul 2021 - Feb 2022
+  description: Programming an android native app using Java
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Information Technology Club (ITC)
+  position: Mobile Development Staff
+  timeperiod: Feb 2022 - Present
+  description: Programming a mobile device app using Flutter
+
+- company: Robotika UPN Veteran Yogyakarta (RUVY)
+  position: Unmanned Aerial Vehicle Staff
+  timeperiod: May 2021 - Present
+  description: Creating and piloting UAV
+
+- company: Wiranem Lupatmo
+  position: Vice Leader
+  timeperiod: Aug 2022 - Present
+  description: Ensure the organization is on the right track
+
+
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: UPN Veteran Yogyakarta
+  timeperiod: 2020 - Present
+  description: Informatics Undergraduate Program
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: SMA N 1 Jetis
+  timeperiod: 2017 - 2020
+
+- degree: SMP N 1 Imogiri
+  timeperiod: 2014 - 2017
+
+- degree: SD Wukirsari
+  timeperiod: 2008 - 2014
+  
 
 # skill level goes from 0 to 100
 skills:
-- name: HTML5
+- name: Golang
   level: 99
-- name: CSS3
+- name: TypeScript
   level: 95
 - name: JavaScript
-  level: 97
+  level: 95
+- name: Java
+  level: 95
 - name: Node.js
+  level: 95
+- name: Dart
+  level: 95
+- name: Flutter
+  level: 95
+- name: PostgresQL
   level: 93
-- name: Angular 2
+- name: MySQL
   level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
 - name: Docker
-  level: 99
+  level: 80
+- name: Linux
+  level: 70
+- name: Git
+  level: 70
+
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Tiga Dara Property
+  platform: Golang - TypeScript
+  timeperiod: Mar 2022 - May 2022
+  description: Back-end web service
+  url: https://tigadaraproperty.com/
+
+- name: Weather Maps
+  platform: TypeScript
+  timeperiod: Nov 2022
+  description: Website that provide a weather and maps based on user location
+  url: https://github.com/handiism/weather-maps
+
+- name: Chat App
+  platform: Golang - TypeScript
+  timeperiod: Nov 2022
+  description: End-to-end encrytped chat web app
+  url: https://github.com/handiism/chat-be
 
 # optional, not all resume templates have hobbies included
 hobbies:
@@ -81,18 +118,18 @@ hobbies:
   iconClass: fa fa-pencil
   url: https://example.com
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+# contributions:
+# - name: best-resume-ever
+#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+#   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: mail.handira@gmail.com
+  phone: 08895689773
+  street: Manggung RT 04, Wukirsari, Imogiri, Bantul
+  city: Bantul
+  github: handiism
+  linkedin: handiism
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
